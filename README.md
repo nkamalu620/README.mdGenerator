@@ -1,7 +1,7 @@
-# Choose you next home
+# The Purge
 
 ## Description
-You are asked a seires of questions and when youare finished the app will give suggestions on where to line
+This app is designed for workers to blow off steam when dealing with difficult customers.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,19 +12,19 @@ You are asked a seires of questions and when youare finished the app will give s
 - [Questions](#questions)
 
 ## Installation
-must me installed on your browser
+Open up google chrome and download the extension
 
 ## Usage
-must put in you general information
+Open the app, click the call generator button and an ai will start a conversation as an angry customer where you can say whatever you want.
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-December 5
+n/a
 
 ## Tests
-answer the questions
+n/
 
 ## Questions
 For any questions, please reach out to nkamalu620 or email me at nkamalu96@gmail.com.
