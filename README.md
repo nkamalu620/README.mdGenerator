@@ -1,7 +1,7 @@
-# The Purge
+# Ready README
 
 ## Description
-This app is designed for workers to blow off steam when dealing with difficult customers.
+This is for those who want to quickly create a README.md file
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,19 +12,19 @@ This app is designed for workers to blow off steam when dealing with difficult c
 - [Questions](#questions)
 
 ## Installation
-Open up google chrome and download the extension
+This is where you put inthe installation instructions
 
 ## Usage
-Open the app, click the call generator button and an ai will start a conversation as an angry customer where you can say whatever you want.
+This is where you put in the usage information
 
 ## License
 This project is licensed under the MIT license.
 
 ## Contributing
-n/a
+This is where you put in the contribution guidelines
 
 ## Tests
-n/
+This is where you put in the test instructions
 
 ## Questions
 For any questions, please reach out to nkamalu620 or email me at nkamalu96@gmail.com.
